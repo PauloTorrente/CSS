@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    text-align: justify;
+}
+
+.header {
+    text-align: center;
+}
+
+.address {
+    color: #333;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+}
+
+.date {
+    font-style: italic;
+}
+
+.subject {
+    font-weight: bold;
+}
+
+.content {
+    text-align: justify;
+    hyphens: auto;
+    text-decoration: none;
+}
+
+.signature {
+    text-align: right;
+    font-style: italic;
+}
